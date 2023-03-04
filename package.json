@@ -1,0 +1,25 @@
+{
+  "name": "simplewebauthn-types-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkonasov/simplewebauthn-types-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkonasov/simplewebauthn-types-demo/issues"
+  },
+  "homepage": "https://github.com/dkonasov/simplewebauthn-types-demo#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@simplewebauthn/server": "^7.0.1"
+  }
+}
